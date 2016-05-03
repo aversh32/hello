@@ -1,0 +1,18 @@
+c:\users\андрей\documents\visual studio 2015\Projects\IIlab1\IIlab1\bin\Debug\IIlab1.exe.config
+c:\users\андрей\documents\visual studio 2015\Projects\IIlab1\IIlab1\bin\Debug\IIlab1.exe
+c:\users\андрей\documents\visual studio 2015\Projects\IIlab1\IIlab1\bin\Debug\IIlab1.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\IIlab1\IIlab1\obj\Debug\IIlab1.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2015\Projects\IIlab1\IIlab1\obj\Debug\IIlab1.Properties.Resources.resources
+c:\users\андрей\documents\visual studio 2015\Projects\IIlab1\IIlab1\obj\Debug\IIlab1.csproj.GenerateResource.Cache
+c:\users\андрей\documents\visual studio 2015\Projects\IIlab1\IIlab1\obj\Debug\IIlab1.exe
+c:\users\андрей\documents\visual studio 2015\Projects\IIlab1\IIlab1\obj\Debug\IIlab1.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\IIlab1\IIlab1\obj\Debug\IIlab1.Form1.resources
+D:\IIlab1\IIlab1\bin\Debug\IIlab1.exe.config
+D:\IIlab1\IIlab1\obj\Debug\IIlab1.exe
+D:\IIlab1\IIlab1\obj\Debug\IIlab1.pdb
+D:\IIlab1\IIlab1\bin\Debug\IIlab1.exe
+D:\IIlab1\IIlab1\bin\Debug\IIlab1.pdb
+D:\IIlab1\IIlab1\obj\Debug\IIlab1.csprojResolveAssemblyReference.cache
+D:\IIlab1\IIlab1\obj\Debug\IIlab1.Form1.resources
+D:\IIlab1\IIlab1\obj\Debug\IIlab1.Properties.Resources.resources
+D:\IIlab1\IIlab1\obj\Debug\IIlab1.csproj.GenerateResource.Cache
