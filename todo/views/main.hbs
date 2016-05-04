@@ -1,0 +1,22 @@
+<html><head><title>Todo List</title></head><body>
+<h1>Todo List</h1>
+<ul>
+{{#each deal}}
+	<li>{{this}}</li>    
+{{/each}}
+ </ul>
+ <script type="text/javascript">
+ function check()
+ {
+	alert("1");
+	if (document.form.add.value == "Add Item") {alert("Button1 pressed!"); action = "/add"}
+	
+ }
+ </script>
+ <form name=form method="post" action = "/add" >
+ <p><input type="text" name="item" /></p>
+ <p><input type="submit" name=add value="Add Item" />
+ <input type="submit" name=del value="Delete Item"></p>
+ </form>
+</form>
+ </body></html>
